@@ -1,3 +1,4 @@
 a=5
 b=8
-print(a+b)
+c=12
+print(a+b+c)
